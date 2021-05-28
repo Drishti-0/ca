@@ -1,0 +1,25 @@
+.container{
+    background-color: yellow;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    font-style: oblique;
+}
+input{
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: pink;
+}
+.btn{
+    border-radius: 20px;
+    background-color: red;
+    color:white;
+    font-style: oblique;
+    font-size: large;
+    margin-top: 50px;
+}
